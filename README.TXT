@@ -6,9 +6,9 @@ alles, was er/sie wissen muss. Üblicherweise sollte der Kommentar
 zumindest die folgenden Angaben umfassen:
 ------------------------------------------------------------------------
 
-PROJEKTBEZEICHNUNG:
-PROJEKTZWECK:
-VERSION oder DATUM:
+PROJEKTBEZEICHNUNG: ZooBeispiel 
+PROJEKTZWECK: Einarbeitung GitHub
+VERSION oder DATUM:Fj2020
 WIE IST DAS PROJEKT ZU STARTEN:
-AUTOR(EN):
+AUTOR(EN): Rau, Göritz
 BENUTZERHINWEISE:
