@@ -7,6 +7,6 @@ public abstract class Tier
     
     public final void wieMachtDasTier() 
     {
-        System.out.println(gibName()+" macht "+gibLaut());
+        System.out.println(String.format("%s macht %s", gibName(), gibLaut());
     }
 }
